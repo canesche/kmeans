@@ -1,0 +1,68 @@
+Break in iteration 
+
+Total Time: 425.01827648707797ms
+
+Cluster values: 0 1 
+
+Cluster values: 1 0 
+
+Cluster values: 1 2 
+
+Cluster values: 2 0 
+
+Cluster values: 4 1 
+
+Cluster values: 4 0 
+
+Cluster values: 6 1 
+
+Cluster values: 7 1 
+
+Cluster values: 4 8 
+
+Cluster values: 2 8 
+
+Cluster values: 4 8 
+
+Cluster values: 1 8 
+
+Cluster values: 4 11 
+
+Cluster values: 3 11 
+
+Cluster values: 5 10 
+
+Cluster values: 5 5 
+
+Cluster values: 4 10 
+
+Cluster values: 4 10 
+
+Cluster values: 5 8 
+
+Cluster values: 2 10 
+
+Cluster values: 3 11 
+
+Cluster values: 6 8 
+
+Cluster values: 1 6 
+
+Cluster values: 0 10 
+
+Cluster values: 2 11 
+
+Cluster values: 6 10 
+
+Cluster values: 5 11 
+
+Cluster values: 1 11 
+
+Cluster values: 0 10 
+
+Cluster values: 1 10 
+
+Cluster values: 7 10 
+
+Cluster values: 1 11 
+

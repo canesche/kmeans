@@ -1,0 +1,132 @@
+Break in iteration 
+
+Total Time: 8327.413184302193ms
+
+Cluster values: 0 1 
+
+Cluster values: 1 1 
+
+Cluster values: 1 1 
+
+Cluster values: 2 1 
+
+Cluster values: 3 1 
+
+Cluster values: 4 1 
+
+Cluster values: 5 1 
+
+Cluster values: 7 1 
+
+Cluster values: 1 8 
+
+Cluster values: 0 11 
+
+Cluster values: 1 9 
+
+Cluster values: 5 8 
+
+Cluster values: 3 8 
+
+Cluster values: 6 8 
+
+Cluster values: 1 11 
+
+Cluster values: 5 8 
+
+Cluster values: 3 5 
+
+Cluster values: 1 8 
+
+Cluster values: 1 11 
+
+Cluster values: 2 11 
+
+Cluster values: 1 11 
+
+Cluster values: 4 11 
+
+Cluster values: 5 11 
+
+Cluster values: 5 11 
+
+Cluster values: 1 11 
+
+Cluster values: 4 10 
+
+Cluster values: 2 10 
+
+Cluster values: 6 9 
+
+Cluster values: 3 11 
+
+Cluster values: 0 8 
+
+Cluster values: 5 10 
+
+Cluster values: 4 10 
+
+Cluster values: 1 10 
+
+Cluster values: 6 11 
+
+Cluster values: 7 11 
+
+Cluster values: 1 11 
+
+Cluster values: 6 11 
+
+Cluster values: 4 11 
+
+Cluster values: 4 11 
+
+Cluster values: 2 11 
+
+Cluster values: 3 11 
+
+Cluster values: 1 11 
+
+Cluster values: 4 11 
+
+Cluster values: 6 11 
+
+Cluster values: 1 11 
+
+Cluster values: 0 10 
+
+Cluster values: 3 11 
+
+Cluster values: 4 11 
+
+Cluster values: 5 11 
+
+Cluster values: 1 11 
+
+Cluster values: 1 11 
+
+Cluster values: 2 11 
+
+Cluster values: 0 11 
+
+Cluster values: 0 11 
+
+Cluster values: 1 11 
+
+Cluster values: 3 11 
+
+Cluster values: 5 11 
+
+Cluster values: 2 11 
+
+Cluster values: 1 11 
+
+Cluster values: 2 11 
+
+Cluster values: 2 11 
+
+Cluster values: 3 11 
+
+Cluster values: 6 11 
+
+Cluster values: 6 11 
+

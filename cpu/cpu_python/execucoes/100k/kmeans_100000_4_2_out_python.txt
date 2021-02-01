@@ -1,0 +1,12 @@
+Break in iteration 
+
+Total Time: 192.86857332502092ms
+
+Cluster values: 3 10 
+
+Cluster values: 1 1 
+
+Cluster values: 3 3 
+
+Cluster values: 5 1 
+

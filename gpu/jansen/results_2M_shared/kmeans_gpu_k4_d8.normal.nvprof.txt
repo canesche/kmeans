@@ -1,0 +1,5 @@
+==21960== NVPROF is profiling process 21960, command: ./a.out 2000000 100 ../../USCensus1990.data.txt
+==21960== Profiling application: ./a.out 2000000 100 ../../USCensus1990.data.txt
+==21960== Profiling result:
+No kernels were profiled.
+No API activities were profiled.

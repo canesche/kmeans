@@ -1,0 +1,22 @@
+==24278== NVPROF is profiling process 24278, command: ./a.out 2000000 100 ../../USCensus1990.data.txt
+==24278== Profiling application: ./a.out 2000000 100 ../../USCensus1990.data.txt
+==24278== Profiling result:
+            Type  Time(%)      Time     Calls       Avg       Min       Max  Name
+ GPU activities:   95.65%  40.528ms         6  6.7546ms  6.5045ms  7.2065ms  kmeans(int*, int*, int*, int*, int)
+                    4.33%  1.8334ms        19  96.496us     608ns  1.8142ms  [CUDA memcpy HtoD]
+                    0.02%  9.2480us        12     770ns     704ns     928ns  [CUDA memcpy DtoH]
+      API calls:   68.11%  95.621ms         4  23.905ms  5.2550us  95.512ms  cudaMalloc
+                   29.08%  40.832ms         6  6.8053ms  6.6509ms  7.2103ms  cudaDeviceSynchronize
+                    2.07%  2.9074ms        31  93.786us  4.2630us  1.8579ms  cudaMemcpy
+                    0.21%  293.79us         4  73.446us  5.4370us  169.54us  cudaFree
+                    0.18%  250.95us        94  2.6690us     312ns  100.39us  cuDeviceGetAttribute
+                    0.16%  223.99us         1  223.99us  223.99us  223.99us  cudaGetDeviceProperties
+                    0.09%  129.26us         1  129.26us  129.26us  129.26us  cuDeviceTotalMem
+                    0.05%  75.351us         6  12.558us  7.7780us  25.685us  cudaLaunch
+                    0.02%  24.982us         1  24.982us  24.982us  24.982us  cuDeviceGetName
+                    0.01%  20.503us         1  20.503us  20.503us  20.503us  cudaSetDevice
+                    0.00%  4.3170us        30     143ns      85ns     382ns  cudaSetupArgument
+                    0.00%  2.1900us         6     365ns     148ns     832ns  cudaConfigureCall
+                    0.00%  1.9600us         2     980ns     532ns  1.4280us  cuDeviceGetCount
+                    0.00%  1.2520us         6     208ns     127ns     340ns  cudaGetLastError
+                    0.00%     882ns         2     441ns     371ns     511ns  cuDeviceGet

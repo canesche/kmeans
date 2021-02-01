@@ -1,0 +1,72 @@
+Break in iteration 6
+
+
+
+Cluster values: 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+Cluster values: 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+Cluster values: 3 10 1 0 0 1 1 1 1 0 0 1 0 1 1 0 
+
+Cluster values: 3 1 1 0 0 1 2 1 1 0 0 0 0 3 3 0 
+
+Cluster values: 4 1 1 0 0 1 3 1 1 0 0 1 0 2 2 0 
+
+Cluster values: 4 1 1 0 0 5 2 1 1 0 0 1 0 2 2 0 
+
+Cluster values: 4 1 1 0 0 1 0 1 1 0 0 4 0 1 0 0 
+
+Cluster values: 6 1 1 0 0 0 0 1 1 0 0 3 0 0 0 1 
+
+Cluster values: 6 0 1 0 0 0 0 1 1 0 0 0 0 0 0 0 
+
+Cluster values: 9 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+Cluster values: 10 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+Cluster values: 11 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+Cluster values: 12 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+Cluster values: 13 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+Cluster values: 14 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+Cluster values: 15 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+Cluster values: 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+Cluster values: 17 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+Cluster values: 18 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+Cluster values: 19 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+Cluster values: 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+Cluster values: 21 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+Cluster values: 22 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+Cluster values: 23 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+Cluster values: 24 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+Cluster values: 25 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+Cluster values: 26 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+Cluster values: 27 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+Cluster values: 28 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+Cluster values: 29 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+Cluster values: 30 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+Cluster values: 31 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+Times: 4362.038611ms 4411.969962ms 4361.703188ms 4360.704376ms 4360.870998ms 4362.011167ms 4359.064448ms 4358.555880ms 4361.006402ms 4361.865368ms 
+1 Iteration Execution Time: 638.734434ms
+
+Time AVG (3º until 10º): 4360.582663ms 
